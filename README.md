@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋<br>I'm Sudan, a passionate developer with a strong foundation in web development and a growing interest in data science. Here’s a bit about me:<br><br>Languages & Technologies:<br><br>Front-end: JavaScript (JS), HTML, CSS<br>Back-end: Node.js, Express.js<br>Frameworks: React<br>Programming Languages: Python, Java<br>Current Projects:<br><br>I'm currently working on a MERN (MongoDB, Express, React, Node.js) stack project, enhancing my skills in full-stack development.<br>Interests:<br><br>Web Development<br>Data Science<br>Learning Journey:<br><br>Continuously expanding my knowledge and skills, focusing on both front-end and back-end technologies, and diving deeper into the world of data science.<br>Feel free to check out my repositories and projects. I'm always open to feedback and collaboration. Let's build something amazing together!<br><br><br>
+Hi there! 👋<br>I'm Sudan, a passionate developer<br>
 
 
 ## 🌐 Socials:
