@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋<br>I'm Sudan, a passionate developer<br>
+Hi there! 👋<br>I'm Sudan, a passionate developer and problem solver <br>
 
 
 ## 🌐 Socials:
