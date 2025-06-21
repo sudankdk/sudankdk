@@ -1,5 +1,7 @@
 # 💫 About Me:
 Hi there! 👋<br>I'm Sudan Khadka, a passionate developer and problem solver <br>
+[![committers.top badge](https://user-badge.committers.top/nepal/sudankdk.svg)](https://committers.top/nepal/sudankdk)
+
 
 
 ## 🌐 Socials:
