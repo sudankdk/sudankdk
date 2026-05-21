@@ -4,12 +4,14 @@
 <div align="center">
 
 ```
-    ♛
-   /|\          S U D A N   K H A D K A
-   / \
-  _____         not a bug. not a feature.
- |     |        a system in progress.
- |_____|
+                                                              
+       ♛                                                      
+      /|\         S U D A N   K H A D K A                     
+      / \                                                     
+     _____        not a bug. not a feature.                   
+    |     |       a system in progress.                       
+    |_____|                                                   
+                                                              
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=22&pause=1000&color=0D5F13&background=00000000&center=true&vCenter=true&width=500&lines=itahari%2C+nepal;writes+go+%2F+python+%2F+distributed+things;the+code+is+the+canvas.;still+building." alt="Typing SVG" />
@@ -21,17 +23,19 @@
 <div align="center">
 
 ```
-  ANATOMY OF A DEVELOPER
-  ──────────────────────
-
-             ♛  
-
-    skull  → distributed systems
-    eyes   → always reading source
-    hands  → typed in go, raw
-    spine  → clean architecture
-    bones  → everything underneath
-    heart  → still writing, still building
+                                                              
+   ANATOMY OF A DEVELOPER                                    
+   ──────────────────────                                    
+                                                              
+        ♛  ← crown. earned, not given.                       
+                                                              
+       skull  → distributed systems                          
+       eyes   → always reading source                        
+       hands  → typed in go, raw                             
+       spine  → clean architecture                           
+       bones  → everything underneath                        
+       heart  → still writing, still building                
+                                                              
 ```
 
 </div>
@@ -40,9 +44,7 @@
 
 ## ♛ &nbsp; WHO IS THIS
 
-> 
-
-I'm **Sudan Khadka** — a developer from **Itahari, Nepal**.
+I'm **Sudan Khadka** — a developer from **Itahari, Nepal**.  
 I build things that work under pressure. Distributed. Concurrent. Sometimes messy. Always intentional.
 
 ```
@@ -70,7 +72,7 @@ PHILOSOPHY  →  write code like it means something
 
 ---
 
-## ♛ &nbsp; THE Arsenal
+## ♛ &nbsp; THE ARSENAL
 
 ```
   GO ─────────────────── primary weapon
@@ -100,13 +102,13 @@ PHILOSOPHY  →  write code like it means something
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sudankdk&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&title_color=0D5F13&text_color=ffffff&icon_color=0D5F13" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=sudankdk&theme=dark&hide_border=true&include_all_commits=false&count_private=false&title_color=0D5F13&text_color=ffffff&icon_color=0D5F13&bg_color=00000000" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudankdk&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=0D5F13&text_color=ffffff" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudankdk&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=0D5F13&text_color=ffffff&bg_color=00000000" />
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sudankdk&theme=transparent&hide_border=true&ring=0D5F13&fire=0D5F13&currStreakLabel=0D5F13&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sudankdk&theme=dark&hide_border=true&ring=0D5F13&fire=0D5F13&currStreakLabel=0D5F13&sideLabels=cccccc&dates=888888&currStreakNum=cccccc&sideNums=cccccc&background=00000000)](https://git.io/streak-stats)
 
 </div>
 
@@ -144,14 +146,16 @@ PHILOSOPHY  →  write code like it means something
 <div align="center">
 
 ```
-       ♛
-      ___
-     |   |
-     |___|       
-      /|\         
-     / | \
-      / \         
-     /   \        
+                                                              
+        ♛                                                     
+       ___                                                    
+      |   |      the code persists.                           
+      |___|      itahari to everywhere.                       
+       /|\                                                    
+      / | \                                                   
+       / \                                                    
+      /   \                                                   
+                                                              
 ```
 
 ![Profile Views](https://visitcount.itsvg.in/api?id=sudankdk&icon=5&color=3)
