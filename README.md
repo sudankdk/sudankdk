@@ -158,7 +158,7 @@ PHILOSOPHY  →  write code like it means something
                                                               
 ```
 
-![Profile Views](https://visitcount.itsvg.in/api?id=sudankdk&icon=5&color=3)
+![Profile Views](https://komarev.com/ghpvc/?username=sudankdk&color=0D5F13&style=flat-square&label=views)
 
 </div>
 
